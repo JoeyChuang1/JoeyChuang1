@@ -1,0 +1,17 @@
+{
+  "most_connected_by_num": [
+    "Twilight Sparkle",
+    "Rainbow Dash",
+    "Applejack"
+  ],
+  "most_connected_by_weight": [
+    "Twilight Sparkle",
+    "Rainbow Dash",
+    "Applejack"
+  ],
+  "most_central_by_betweenness": [
+    "Twilight Sparkle",
+    "Rainbow Dash",
+    "Applejack"
+  ]
+}
