@@ -12,7 +12,7 @@ def main():
     data = {
         'grant_type': 'password',
         'username' : 'Comp598_STUDENT',
-        'password' : 'IWILLSUEYOU'
+        'password' : ''
     }
     headers = {'User-Agent': 'MyBot/0.0.1'}
     res = requests.post('https://www.reddit.com/api/v1/access_token', auth=auth, 
