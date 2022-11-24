@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoeyChuang1
-- 👀 I’m interested in statistical machine learning
+- 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning software engineering at McGill University
 - 📫 How to reach me ching-i.chuang@mail.mcgill.ca
 
