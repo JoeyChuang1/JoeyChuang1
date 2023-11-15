@@ -1,7 +1,5 @@
 - 👋 Hi everyone, welcome to my GitHub.
-- My name is Joey Chuang, and I am currently 4th software engineering student at McGill University. 
-- I have 16 months of internship experience and 4 months of research experience.
-- I am comfortable and always up to date with the most popular and recent release tech stack - such as using different python libraries to develop efficient machine learning algorithms or MERN and MVP stack to develop full stack applications.
+- My name is Joey Chuang, and I am currently a 4th software engineering student at McGill University. 
  feel free to reach out to me at joeychuangwork@gmail.com
 - 
 <!---
